@@ -34,7 +34,7 @@ const ContactPage: React.FC = () => {
               className="space-y-8"
             >
               <div>
-                <h3 className="text-xl font-semibold text-primary-900 dark:text-white mb-2">📧 Email</h3>
+                <h3 className="text-xl font-semibold text-primary-900 dark:text-white mb-2">Email</h3>
                 <p className="text-primary-700 dark:text-primary-300">
                   <a href="mailto:contact@akeemcox.com" className="hover:text-gold-500 transition-colors">
                     contact@akeemcox.com
@@ -43,7 +43,7 @@ const ContactPage: React.FC = () => {
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold text-primary-900 dark:text-white mb-2">🌐 Social Media</h3>
+                <h3 className="text-xl font-semibold text-primary-900 dark:text-white mb-2">Social Media</h3>
                 <div className="space-y-2">
                   <p className="text-primary-700 dark:text-primary-300">
                     <a href="https://twitter.com/akeemcox" target="_blank" rel="noopener noreferrer" className="hover:text-gold-500 transition-colors">
@@ -64,7 +64,7 @@ const ContactPage: React.FC = () => {
               </div>
 
               <div>
-                <h3 className="text-xl font-semibold text-primary-900 dark:text-white mb-2">⏰ Response Time</h3>
+                <h3 className="text-xl font-semibold text-primary-900 dark:text-white mb-2">Response Time</h3>
                 <p className="text-primary-700 dark:text-primary-300">
                   We typically respond to inquiries within 24-48 hours.
                 </p>

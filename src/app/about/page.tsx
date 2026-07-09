@@ -32,7 +32,7 @@ const AboutPage: React.FC = () => {
           >
             <h2 className="font-serif text-4xl font-bold text-primary-900 dark:text-white mb-6">Our Mission</h2>
             <p className="text-lg text-primary-700 dark:text-primary-300 mb-6 leading-relaxed">
-              "Wild Thoughts of a Young Man's Tale" is more than just a book—it's a movement dedicated to fostering deep thinking, personal growth, and meaningful transformation. Our mission is to inspire young people to embrace discipline, discover their purpose, and build resilience in the face of life's challenges.
+              Wild Thoughts of a Young Mans Tale is more than just a book it is a movement dedicated to fostering deep thinking, personal growth, and meaningful transformation. Our mission is to inspire young people to embrace discipline, discover their purpose, and build resilience in the face of lifes challenges.
             </p>
             <p className="text-lg text-primary-700 dark:text-primary-300 leading-relaxed">
               Through philosophical inquiry and practical wisdom, we aim to create a community of thoughtful individuals committed to becoming the best versions of themselves.
