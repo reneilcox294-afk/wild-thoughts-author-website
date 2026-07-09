@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/next-seo.json",
+  "openGraph": {
+    "type": "website",
+    "locale": "en_US",
+    "url": "https://wild-thoughts.example.com",
+    "siteName": "Wild Thoughts of a Young Man's Tale"
+  },
+  "twitter": {
+    "handle": "@akeemcox",
+    "site": "@akeemcox",
+    "cardType": "summary_large_image"
+  }
+}
